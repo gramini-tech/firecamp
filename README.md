@@ -1,6 +1,6 @@
 # [FireCamp](https://github.com/cloudstax/firecamp)
 
-**CloudStax is shutting down. As a result, work on FireCamp will end and the Github repository will be archived.**
+**CloudStax is shutting down. Hence, forked.**
 
 FireCamp is an open source platform to easily setup, manage and scale the stateful services. The customer could easily run any service with no management overhead on any cloud.
 
